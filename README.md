@@ -1,2 +1,2 @@
 # lightbox-simple
-This creates a simple LightBox by using JavaScript and CSS
+This creates a simple carousel using JavaScript and CSS
